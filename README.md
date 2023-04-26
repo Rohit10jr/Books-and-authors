@@ -1,2 +1,2 @@
 # book-author-flask
-web page
+web page to store the data on authors and books
